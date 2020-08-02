@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "e9aY1+T7yta3re5MAiIb5A75ZKpJZABdcqSArp21zrMuLjqpuocRaEh1AzbQxGgzKxr4LkQIK4NYtGxhy+sRlA==",
+  "success": true,
+  "projectFilePath": "C:\\Advance C# Masters\\Topics Code\\EssentialCSharp-7.0\\src\\Chapter01\\Chapter01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dl185dp\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\dl185dp\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\dl185dp\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\dl185dp\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\dl185dp\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\dl185dp\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
